@@ -1,3 +1,4 @@
+![Banner](/IMG_3889.JPG)
 # Hi, I'm @shmipsi
 - 18 y.o.
 - Pronouns: he/him/his
