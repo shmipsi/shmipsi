@@ -6,7 +6,7 @@
 > [!Note]
 > Human mouth is dirtier than a toilet seat
 
-## Socials
+## Contacts
 - [Telegram](https://t.me/Anef_fr)
 - Email: shmipsi@proton.me
 <!---
