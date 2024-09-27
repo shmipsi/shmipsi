@@ -1,5 +1,5 @@
 # Hi, I'm @shmipsi
-![Banner](/IMG_3889.JPG)
+![Banner](/banner.jpg)
 - 18 y.o.
 - Pronouns: he/him/his
 - Currently learning html & css
