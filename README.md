@@ -2,7 +2,6 @@
 ![Banner](/banner.jpg)
 - 18 y.o.
 - Pronouns: he/him/his
-- [Site](https://shmipsi.github.io)
 > [!Note]
 > Human mouth is dirtier than a toilet seat
 <!---
