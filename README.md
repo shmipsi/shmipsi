@@ -1,7 +1,7 @@
 # Hi, I'm @shmipsi
 ![Banner](/banner.jpg)
 - 18 y.o.
-- Pronouns: he/him/his
+- Male
 > [!Note]
 > Human mouth is dirtier than a toilet seat
 <!---
