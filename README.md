@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hi, I'm @shmipsi
+![Banner](/banner.jpg)
+> [!Note]
+> Human mouth is dirtier than a toilet seat
 <!--
 **shmipsi/shmipsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
