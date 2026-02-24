@@ -1,5 +1,7 @@
 # Hi, I'm @shmipsi
+
 <img src="/banner.jpg" alt="Banner" style="width:100%; height:auto;">
+
 > [!Note]
 > Human mouth is dirtier than a toilet seat
 <!--
